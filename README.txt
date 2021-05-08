@@ -1,0 +1,1 @@
+make sure data is in the code folder and run it like any python program
